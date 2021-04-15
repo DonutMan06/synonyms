@@ -1,3 +1,5 @@
+![synonyms_picture](https://github.com/DonutMan06/DonutMan06/blob/main/syno.png)
+
 # synonyms
 Some basic tools to play with a given french thesaurus
 The thesaurus comes from [grammalecte](https://grammalecte.net/download.php?prj=fr) under the LGPL licence.
@@ -98,6 +100,7 @@ It does nothing if either word1 or word2 does not belong to the graph
 Function prototype : `compute_syno_set(graph, word, itermax=20)`
 
 This functions explicitly constructs the growing sets of order-k synonyms of a given word up to iteration max number (defaut : 20).
+The output of this function can be used to plot the way the size of the order-k synonyms set grows with k (see for example the picture at the begining of this README.md)
 
 
 ## Limitations and known issues
