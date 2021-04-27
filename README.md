@@ -24,7 +24,7 @@ vif        161
 dtype: int64
 ```
 
-The main results obtained by using this project are presented on my personal blog. The URL will be provided as soon as the article is ready :)
+The main results obtained by using this project are presented on [my personal blog](http://blog.les-vigneron.fr/litterature/tous-les-mots-sont-freres/) (but it's in french).
 
 ## Installation
 
